@@ -1,4 +1,4 @@
-package com.ja.service;
+package com.ja.vo;
 
 import lombok.Data;
 import lombok.Getter;
